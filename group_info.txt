@@ -1,19 +1,19 @@
 Group Number:
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name:Zeqian Li
+- Student ID:1469744
+- Email:zeqianl1@student.unimelb.edu.au
 
 Member-2:
-- Name:
-- Student ID:
-- Email:
+- Name:Chenyang Wang
+- Student ID:1468475
+- Email:chenyangw5@student.unimelb.edu.au
 
 Member-3:
-- Name:
-- Student ID:
-- Email:
+- Name:Shao Lanye
+- Student ID:1475378
+- Email:lanyes@student.unimelb.edu.au
 
 Member-4:
 - Name:
