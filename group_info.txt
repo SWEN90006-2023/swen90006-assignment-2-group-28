@@ -1,4 +1,4 @@
-Group Number:
+Group Number: Group_28
 
 Member-1:
 - Name:Zeqian Li
@@ -11,11 +11,11 @@ Member-2:
 - Email:chenyangw5@student.unimelb.edu.au
 
 Member-3:
-- Name:Shao Lanye
+- Name:Lanye Shao
 - Student ID:1475378
 - Email:lanyes@student.unimelb.edu.au
 
 Member-4:
-- Name:
-- Student ID:
-- Email:
+- Name:Zheyuan Wu
+- Student ID:1166034
+- Email:zheyuanw@student.unimelb.edu.au
