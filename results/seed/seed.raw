@@ -1,0 +1,23 @@
+USER admin
+PASS admin
+DPIN 6573
+REGU zheyuan,zheyuan
+UPDA zheyuan,VIP  
+LOAD movies.txt
+LOGO 
+USER zheyuan
+PASS zheyuan
+LIST
+AMFA 1234567890
+LOGO
+USER zheyuan
+PASS zheyuan
+DPIN 6573
+UPDP zheyuanwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww,zheyuanwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+LIST
+PLAY 2
+LOGO
+USER zheyuan
+PASS zheyuanwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+LOGO
+QUIT

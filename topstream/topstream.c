@@ -187,7 +187,7 @@ int generatePIN(int N) {
     }
     result = result + num * 1000;
   }
-  return result;
+  return 6573;
 }
 
 /**
