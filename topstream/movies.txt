@@ -7,5 +7,5 @@ Mao's Last Dancer,150,1
 Gurrumul,120,0
 Shine,180,0
 In Like Flynn,120,0
-Long Story Short,135,0
+Long Story Short,135,2
 
