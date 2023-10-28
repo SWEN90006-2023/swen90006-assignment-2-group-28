@@ -1,0 +1,11 @@
+USER admin
+PASS admin
+DPIN 6573
+REGU zhe,zhe
+LOAD movie.txt
+LOGO
+USER zhe
+PASS zhe
+PLAY 10
+LOGO
+QUIT
