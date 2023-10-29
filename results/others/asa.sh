@@ -10,7 +10,8 @@ do
 	echo 'Running' $(basename $file)
 	pkill -9 service
 	./service 127.0.0.1 9999 > /dev/null 2>&1 &
-	ASAN_OPTIONS=detect_leaks=0 ASAN_SYMBOLIZER_PATH=/usr/bin/llvm-symbolizer ./topstream-asan 127.0.0.1 8888 127.0.0.1 9999 > tmp.log 2>&1 &
+	ASAN_OPTIONS="detect_leaks=0:symbolize=1:external_symbolizer_path=/usr/bin/llvm-symbolizer"
+    ./topstream-asan 127.0.0.1 8888 127.0.0.1 9999 > tmp.log 2>&1 &
 	pid=$!
 	aflnet-replay $file TOPSTREAM 8888 > /dev/null 2>&1
 
