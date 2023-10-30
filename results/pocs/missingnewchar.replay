@@ -2,8 +2,7 @@ USER admin
 PASS admin
 DPIN 6573
 REGU zhe,zhe
-UPDA zhe,VIP
-LOAD movie.txt
+LOAD movies4.txt
 LOGO
 USER zhe
 PASS zhe
