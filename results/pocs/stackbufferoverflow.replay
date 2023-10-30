@@ -1,0 +1,6 @@
+USER admin
+PASS admin
+DPIN 6573
+LOAD movies5.txt
+LIST
+LOGO
